@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" fill="none">
+  <defs>
+    <linearGradient id="metal" x1="183" y1="456" x2="581" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#32141b"/>
+      <stop offset=".28" stop-color="#a62d43"/>
+      <stop offset=".49" stop-color="#ffacaa"/>
+      <stop offset=".59" stop-color="#eb4861"/>
+      <stop offset=".81" stop-color="#5b1b2d"/>
+      <stop offset="1" stop-color="#211016"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="315" y1="60" x2="507" y2="488" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd0ca"/>
+      <stop offset=".35" stop-color="#b63a51"/>
+      <stop offset=".65" stop-color="#fb6f7c"/>
+      <stop offset="1" stop-color="#4e1b29"/>
+    </linearGradient>
+  </defs>
+  <g transform="rotate(-31 395 280)">
+    <ellipse cx="395" cy="280" rx="337" ry="188" stroke="#a54b5b" stroke-opacity=".42"/>
+    <ellipse cx="395" cy="280" rx="312" ry="169" stroke="#a54b5b" stroke-opacity=".28"/>
+    <path d="M395 98c-149 0-270 75-270 167v31c0 92 121 167 270 167s270-75 270-167v-31c0-92-121-167-270-167Zm0 88c89 0 161 42 161 95s-72 95-161 95-161-42-161-95 72-95 161-95Z" fill="#3c1824" fill-rule="evenodd" stroke="#f46078" stroke-opacity=".7"/>
+    <path d="M395 93c-149 0-270 75-270 167s121 167 270 167 270-75 270-167S544 93 395 93Zm0 88c89 0 161 35 161 79s-72 79-161 79-161-35-161-79 72-79 161-79Z" fill="url(#metal)" fill-rule="evenodd" stroke="url(#rim)" stroke-width="2"/>
+    <ellipse cx="395" cy="260" rx="245" ry="148" stroke="#ffb8b3" stroke-opacity=".48"/>
+    <ellipse cx="395" cy="260" rx="205" ry="112" stroke="#511727" stroke-opacity=".76"/>
+    <ellipse cx="395" cy="260" rx="176" ry="92" stroke="#ffd0ca" stroke-opacity=".58"/>
+  </g>
+</svg>
